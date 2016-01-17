@@ -1,6 +1,6 @@
 # Temporal PostgreSQL
 
 This repository is for issues only. 
-We work on our first prototype patch: Details under [Issues>First version](https://github.com/Piiit/tpg/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22First+version%22)
+We work on our first prototype patch: Details under [Issues](https://github.com/Piiit/tpg/issues)
 
 NB: We use some scripts for development from [pwScripts](https://github.com/Piiit/pwScripts).
